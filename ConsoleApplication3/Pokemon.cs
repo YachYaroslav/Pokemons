@@ -2,7 +2,7 @@
 
 namespace PokemonClass
 {
-    public class Pokemon{
+    public abstract class Pokemon{
         public Pokemon() {
             _health = 10;
             moves = 0;
